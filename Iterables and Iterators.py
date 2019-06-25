@@ -13,3 +13,4 @@ for i in range(len(com)):
         n += 1
 
 print(round(n/len(com), 3))
+
